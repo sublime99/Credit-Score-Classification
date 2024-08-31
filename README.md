@@ -1,13 +1,11 @@
 # Credit-Score-Classification
 Building an intelligent system that can accurately classify a person's credit score based on their credit-related information. 
 
-Project Name: Credit Score Classification
-
-Data Description:
+## Data Description:
 Already available database used in the project.
 https://drive.google.com/drive/folders/184fIZmVnFpsj-csgzp_asumZJ0xFwCEN?usp=sharing
 
-## Data Visualised acoording to profession
+## Data Visualised according to profession:
 <img width="1023" alt="Credit_pie" src="https://github.com/user-attachments/assets/1fa34bdb-7119-4afc-8c1a-518be2a60aa2">
 
 ## Data Cleaning Methodology:
@@ -34,18 +32,21 @@ https://drive.google.com/drive/folders/184fIZmVnFpsj-csgzp_asumZJ0xFwCEN?usp=sha
 
 
 ## Results:
-- KNN: The model achieved an accuracy of 86.34 %, a precision of 86.54 %, and a recall of 86.34%. At k=3.
-- Decision Tree: The accuracy of the model was found to be 85.78%, while the precision and recall were 85.74% and 85.78%, respectively. 
-- Random Forest: The accuracy score was found to be 88.19%, the precision score was found to be 87.81%, the recall score was found to be 88.19%
+### KNN: 
+- The model achieved an accuracy of 86.34 %, a precision of 86.54 %, and a recall of 86.34%. At k=3.
+### Decision Tree: 
+- The accuracy of the model was found to be 85.78%, while the precision and recall were 85.74% and 85.78%, respectively. 
+### Random Forest: 
+- The accuracy score was found to be 88.19%, the precision score was found to be 87.81%, the recall score was found to be 88.19%
 
 ## Conclusion
-Based on the credit score prediction models developed in this project, it is clear that a combination of feature engineering and machine learning algorithms can be effective in predicting credit risk. 
+- Based on the credit score prediction models developed in this project, it is clear that a combination of feature engineering and machine learning algorithms can be effective in predicting credit risk. 
 
-The models showed promising results in terms of accuracy, precision, and recall, indicating that they could be useful in real-world scenarios. 
+- The models showed promising results in terms of accuracy, precision, and recall, indicating that they could be useful in real-world scenarios. 
 
-However, it is important to note that these models should not be the sole basis for making credit decisions, as they are subject to limitations and may not capture all relevant factors. Nonetheless, the potential benefits of using these models, such as increased efficiency and accuracy in credit risk assessment, suggest that they are worth further exploration and refinement. 
+- However, it is important to note that these models should not be the sole basis for making credit decisions, as they are subject to limitations and may not capture all relevant factors. Nonetheless, the potential benefits of using these models, such as increased efficiency and accuracy in credit risk assessment, suggest that they are worth further exploration and refinement. 
 
-Overall, this project demonstrates the potential of data science and machine learning in the field of credit risk assessment and provides a foundation for further research in this area.
+- Overall, this project demonstrates the potential of data science and machine learning in the field of credit risk assessment and provides a foundation for further research in this area.
 
 
 ## Dependencies required for running the code
